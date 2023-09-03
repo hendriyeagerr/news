@@ -17,13 +17,13 @@ class MOONTON:
     self.userdata = []
     self.live = []
     self.die = []
-    self.api = 'https://mtacc.mobilelegends.com/'
+    self.api = 'https://akmcdn.ml.youngjoygame.com/'
     print('''\033[0m
 
 |V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
 | |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ | 
 ---------------------------------------------
-          -  By Setiawan007 -
+          -  By Hendri -
 ---------------------------------------------\n''')
 
   def main(self):
