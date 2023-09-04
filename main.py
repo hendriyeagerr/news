@@ -17,7 +17,7 @@ class MOONTON:
     self.userdata = []
     self.live = []
     self.die = []
-    self.api = 'https://akmcdn.ml.youngjoygame.com/'
+    self.api = 'https://mtacc.mobilelegends.com/static/js/app.113bb481942f7e6f7fa7.js'
     print('''\033[0m
 
 |V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
